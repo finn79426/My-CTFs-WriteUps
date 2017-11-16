@@ -2,6 +2,10 @@
 title: My-CTFs-WriteUps
 tags: CTFs,WriteUps
 ---
+<font size=30>
+    開始養成習慣，有打的CTF都寫個紀錄zz
+</font>
+
 # Index
 * [TKU-TDOH](#TKU_TDOH)
 
