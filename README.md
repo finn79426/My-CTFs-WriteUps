@@ -2,11 +2,10 @@
 title: My-CTFs-WriteUps
 tags: CTFs,WriteUps
 ---
-
 # Index
-* [TKU-TDOH](#TKU-TDOH)
+* [TKU-TDOH](#TKU_TDOH)
 
-# TKU-TDOH
+# TKU_TDOH
 題目連結：[k1tten.me](http://k1tten.me:4000/challenges)
 
 * [ping1 (command inject)](#ping1)
