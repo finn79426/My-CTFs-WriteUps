@@ -6,13 +6,13 @@ tags: CTFs,WriteUps
     一題一個 #
 </font>
 
-# Basic+ Level1
+# Basic+Level1
 給你一個壞掉的b1.txt  
 先用**file指令**觀察它的檔案頭  
 他告訴你：b1.txt: PC bitmap, Windows 3.x format, 213 x 108 x 24  
 將檔案副檔名改成.bmp即可看到flag。(bitmap = bmp)  
 
-# Basic+ Level7
+# Basic+Level7
 他告訴你網站上運行某向服務  
 用nmap去掃這個網站，看他開了甚麼服務  
 ```
