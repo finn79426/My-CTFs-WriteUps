@@ -9,7 +9,7 @@
 * [HackThis!](#HackThis!)
 
 # TKU_TDOH
-題目連結：[k1tten.me](http://k1tten.me:4000/challenges)
+題目連結：**等待站主公開(?**
 
 * [ping1 (command inject)](https://hackmd.io/s/HJM1g6iib#ping1)
 * [ping2 (command inject)](https://hackmd.io/s/HJM1g6iib#ping2)
