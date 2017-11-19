@@ -1,3 +1,4 @@
+# My-CTFs-WriteUps
 
 <font size=30>
     開始養成習慣，有打的CTF都寫個紀錄zz  
@@ -20,7 +21,7 @@
 * [MCS_2 (SSRF)](https://hackmd.io/s/HJM1g6iib#mcs-2)
 * [MXS (XXE)](https://hackmd.io/s/HJM1g6iib#mxs)
 * [Meow Hashmap (Hash collision)](https://hackmd.io/s/HJM1g6iib#meow-hashmap)
-<font size=60>
+<font size=30>
     Hackmd暫時403，等站主同意<(_ _)>
 </font>
 
@@ -29,3 +30,7 @@
 * Basic+
     * [1 (Easy Forensics)](https://hackmd.io/s/Bki6vjakf#basic-level1) 
     * [7 (Service Scan)](https://hackmd.io/s/Bki6vjakf#basic-level7) 
+
+# RC3_CTF
+* 2017
+    * [My Favorite Things (Strings Search)](https://hackmd.io/s/HylNmM1lf#my-favorite-things)
