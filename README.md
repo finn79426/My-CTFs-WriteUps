@@ -33,5 +33,8 @@
 
 # RC3_CTF
 * 2017
-    * [My Favorite Things (Strings Search)](https://hackmd.io/s/HylNmM1lf#my-favorite-things)  
-    * [This is where I’d put my Home Page… IF I HAD ONE (curl loop(?))](https://hackmd.io/s/HylNmM1lf#this-is-where-i’d-put-my-home-page…-if-i-had-one)  
+    * [My Favorite Things (Strings Search)](https://hackmd.io/s/HylNmM1lf#my-favorite-things)
+
+# TUCTF  
+* 2017
+    * [funmail2.0 (basic gdb)](https://hackmd.io/BwVghgRgTAbAxgMwLQAYFxUgLAhInAICM+0YWYA7AMxECcYAJjEA?view#funmail20)
