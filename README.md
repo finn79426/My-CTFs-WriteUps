@@ -53,5 +53,5 @@
     * [XOR](https://hackmd.io/EYVmHYGZwQ2BaALABgGwA4kFNKXu9ATkXgGNDhUBGRRKgJikKA==?view#xor)
     * [Scytale Cipher](https://hackmd.io/EYVmHYGZwQ2BaALABgGwA4kFNKXu9ATkXgGNDhUBGRRKgJikKA==?view#scytale-cipher)
     * [Basic RSA](https://hackmd.io/EYVmHYGZwQ2BaALABgGwA4kFNKXu9ATkXgGNDhUBGRRKgJikKA==?view#basic-rsa)
-    * [Wiener's Attack RSA (Low-Exponet Private Key)](https://hackmd.io/s/HJo9Qfz7f#wiener%E2%80%99s-attack)
-    * [Twin prime RSA](https://hackmd.io/EYVmHYGZwQ2BaALABgGwA4kFNKXu9ATkXgGNDhUBGRRKgJikKA==?view#twin-prime-rsa)
+    * [Wiener's Attack RSA (Low-Exponet Private Key)](https://hackmd.io/s/HJo9Qfz7f#wiener%E2%80%99s-attack)
+    * [Twin prime RSA](https://hackmd.io/EYVmHYGZwQ2BaALABgGwA4kFNKXu9ATkXgGNDhUBGRRKgJikKA==?view#twin-prime-rsa)
