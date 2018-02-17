@@ -12,6 +12,8 @@
 * [TUCTF](#tuctf)
 * [TPCTF](#tpctf)
 * [BreakALLCTF](#breakallctf)
+* [BambooFoxCTF](#BambooFoxCTF)
+* [Hackme.inndy.tw](#Hackmeinndytw)
 
 # TKU_TDOH
 題目連結：**等待站主公開(?**
@@ -56,3 +58,14 @@
     * [Basic RSA](https://hackmd.io/EYVmHYGZwQ2BaALABgGwA4kFNKXu9ATkXgGNDhUBGRRKgJikKA==?view#basic-rsa)
     * [Wiener's Attack RSA (Low-Exponet Private Key)](https://hackmd.io/s/HJo9Qfz7f#wiener%E2%80%99s-attack)
     * [Twin prime RSA](https://hackmd.io/EYVmHYGZwQ2BaALABgGwA4kFNKXu9ATkXgGNDhUBGRRKgJikKA==?view#twin-prime-rsa)
+
+# BambooFoxCTF
+* 2017
+    * [suck-login (PHP MagicHash)](https://hackmd.io/s/rJvFDDUXG#suck-login)
+    * [tiny-git (.git leak)](https://hackmd.io/s/rJvFDDUXG#tiny-git)
+    * [suck-browser (curl)](https://hackmd.io/s/rJvFDDUXG#suck-browser)
+    * [suck-apple (Mac OS X High Sierra "root" security bug)](https://hackmd.io/s/rJvFDDUXG#suck-apple)
+
+# Hackme.inndy.tw
+
+* [Meow (Misc - Known Plaintext Attack)](https://hackmd.io/IwdgLGAcYGwMYFoBmAmAhiBYDMOECMAGYSZNYGAUzgE40BWEeuIA?view#Meow)
